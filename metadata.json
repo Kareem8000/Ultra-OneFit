@@ -1,0 +1,6 @@
+{
+  "name": "Ultra One Fit",
+  "description": "Ultra One Fit — براند أزياء رجالي مصري يقدم Outfits متناسقة جاهزة من 3 قطع لشباب الجامعة والخروجات واليوم العادي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
